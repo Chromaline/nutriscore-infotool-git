@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@font-face {
+    font-family: BundesSans Black;
+    src: url("font/BundesSans-DTP-Black.otf") format("opentype");
+}
+
+@font-face {
+    font-family: BundesSans Regular Italic;
+    src: url("font/BundesSans-RegularItalic.otf") format("opentype");
+}
+
+
+
+  #animation_container, #_preload_div_ {
+	position:relative !important;
+  }
+
+.abstand {
+    width: 200px; 
+    height: 0px; 
+    background-color: transparent;
+}
